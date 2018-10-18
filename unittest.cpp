@@ -2,7 +2,7 @@
 
 #define HELLOWORLD "Hello World"
  
-TEST(SquareRootTest, PositiveNos) { 
+TEST(GoogleTest, HelloWorld) { 
     ASSERT_EQ("Hello World", HELLOWORLD);
 }
 
